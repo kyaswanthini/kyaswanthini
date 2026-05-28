@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Yaswanthini
 
-<!--
-**kyaswanthini/kyaswanthini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Enterprise Technology Professional transitioning into AI Engineering and Agentic AI Systems.
 
-Here are some ideas to get you started:
+Currently working with:
+- SmartCOMM
+- Enterprise automation
+- APIs and communication systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- Agentic AI
+- LangChain
+- RAG Systems
+- AI Automation
+
+---
+
+## 🛠 Skills
+- SmartCOMM
+- XML
+- JSON
+- REST APIs
+- Python
+- Gemini
+- GitHub Copilot
+- Prompt Engineering
+
+---
+
+## 📌 Current Goals
+- Build AI applications
+- Learn Agentic AI
+- Create enterprise AI solutions
+- Transition into AI Engineer roles
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: Add your LinkedIn here
+- GitHub: https://github.com/YOUR-USERNAME

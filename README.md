@@ -1,6 +1,6 @@
 # Hi 👋 I'm Yaswanthini
 
-## 🚀 About Me
+## About Me
 Enterprise Technology Professional transitioning into AI Engineering and Agentic AI Systems.
 
 Currently working with:
@@ -16,7 +16,7 @@ Currently learning:
 
 ---
 
-## 🛠 Skills
+## Skills
 - SmartCOMM
 - XML
 - JSON
@@ -28,7 +28,7 @@ Currently learning:
 
 ---
 
-## 📌 Current Goals
+## Current Goals
 - Build AI applications
 - Learn Agentic AI
 - Create enterprise AI solutions
@@ -36,6 +36,6 @@ Currently learning:
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn here
-- GitHub: https://github.com/YOUR-USERNAME
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/yaswanthini-kodali-14922026a
+- GitHub: https://github.com/kyaswanthini

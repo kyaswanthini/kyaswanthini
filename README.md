@@ -1,38 +1,60 @@
 # Hi 👋 I'm Yaswanthini
 
-## About Me
+## 🚀 About Me
+
 Enterprise Technology Professional transitioning into AI Engineering and Agentic AI Systems.
 
-Currently working with:
-- SmartCOMM
-- Enterprise automation
-- APIs and communication systems
+Currently working on:
+- SmartCOMM Architecture & Development
+- Enterprise automation solutions
+- API integrations and communication systems with Salesforce
+- AI-powered applications and workflow automation
 
 Currently learning:
-- Agentic AI
-- LangChain
-- RAG Systems
-- AI Automation
+- Generative AI
+- Agentic AI systems
+- LLM application development
+- AI automation workflows
 
 ---
 
-## Skills
-- SmartCOMM
-- XML
-- JSON
-- REST APIs
+## 🛠 Tech Stack
+
+### Languages & Tools
 - Python
-- Gemini
-- GitHub Copilot
+- Git & GitHub
+- VS Code
+- Streamlit
+
+### Enterprise Technologies
+- SmartCOMM
+- Salesforce
+- REST APIs
+- XML / JSON
+- CCM Solutions
+
+### AI & GenAI
+- Google Gemini API
 - Prompt Engineering
+- AI Resume Analyzer Project
+- AI Workflow Automation
 
 ---
 
-## Current Goals
-- Build AI applications
-- Learn Agentic AI
-- Create enterprise AI solutions
-- Transition into AI Engineer roles
+## 📌 Current Projects
+
+- 🤖 AI Resume Analyzer
+- 📚 Agentic AI Learning Roadmap
+- 🌐 AI-powered Streamlit Applications
+
+---
+
+## 🌱 Goals for 2026
+
+- Build production-ready AI applications
+- Transition into AI/GenAI Engineering roles
+- Learn Agentic AI architecture
+- Contribute to open-source AI projects
 
 ---
 

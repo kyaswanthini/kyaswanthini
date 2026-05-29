@@ -44,6 +44,7 @@ Currently learning:
 ## 📌 Current Projects
 
 - 🤖 AI Resume Analyzer
+- https://ai-learning-eldsiraudz7z4d6vptktob.streamlit.app
 - 📚 Agentic AI Learning Roadmap
 - 🌐 AI-powered Streamlit Applications
 
